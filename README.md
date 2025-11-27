@@ -8,9 +8,9 @@ Perfect for:
 - practicing REST API design  
 - preparing for junior backend interviews  
 
----
 
-## 🚀 Tech Stack
+
+##  Tech Stack
 
 - **Kotlin**
 - **Ktor 3.x**
@@ -18,12 +18,3 @@ Perfect for:
 - **Kotlinx Serialization (JSON)**
 - **Gradle Kotlin DSL**
 - **In-memory database (MutableList)**
-
----
-
-## 📦 How to Run
-
-### 1️⃣ Clone the project
-```bash
-git clone https://github.com/YOUR_USERNAME/task-manager-api.git
-cd task-manager-api
